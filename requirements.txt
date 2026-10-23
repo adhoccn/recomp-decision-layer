@@ -1,0 +1,8 @@
+# Decision-layer extract of the GCRR verifier (ALGO_VERSION 0.8.4).
+# Core, required:
+numpy>=1.24.0
+opencv-python>=4.8.0
+scipy>=1.10.0
+PyWavelets>=1.4.0
+
+# Decoding/media probing additionally requires ffmpeg on PATH.
